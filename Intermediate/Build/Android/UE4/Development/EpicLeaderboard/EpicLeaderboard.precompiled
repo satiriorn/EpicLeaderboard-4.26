@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.EpicLeaderboard.cppa7.o",
+		"Module.EpicLeaderboard.cppa8.o",
+		"Module.EpicLeaderboard.gen.cppa7.o",
+		"Module.EpicLeaderboard.gen.cppa8.o"
+	]
+}
